@@ -25,5 +25,5 @@ Postdoctoral Researcher in AI for 3D Computer Vision
 ## 🔨Tools & Skills
 Python • C/C++ • PyTorch • TensorFlow • OpenCV • Computer Vision • NeRF • 3DGS • Deep Learning • Docker • Git
 
-## 📊 GitHub Stats
+/## 📊 GitHub Stats
 
